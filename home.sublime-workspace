@@ -1,0 +1,202 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"thumbnail",
+				"thumbnail_path"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/william.roche/Sites/Island Visitor/theme/DIOW/home.php",
+		"/Users/william.roche/Sites/Aston Martin/HTML_STAND_ALONES/the-night-watch/index.html",
+		"/Users/william.roche/Sites/JMH/linkTest_old.html",
+		"/Users/william.roche/Sites/JMH/linkTest.html",
+		"/Users/william.roche/Sites/Sybarite/index.php",
+		"/Users/william.roche/Sites/IFWW/taxonomy-ait-dir-item-location.php",
+		"/Users/william.roche/Sites/IFWW/directory/Templates/taxonomy-ait-dir-item-category.php",
+		"/Users/william.roche/Sites/ILN/themes/wpbootstrap/front-page.php",
+		"/Users/william.roche/Sites/IFWW/wp-config.php",
+		"/Users/william.roche/Sites/IFWW QA/directory/Templates/single-ait-dir-item.php",
+		"/Users/william.roche/Sites/IFWW QA/content-loop-dir-search.php",
+		"/Users/william.roche/Sites/flipbook/CSS3D_mode.php",
+		"/Users/william.roche/Sites/COA/realexresponse.php",
+		"/Users/william.roche/Sites/flipbook/flipbook_query.php",
+		"/Users/william.roche/Sites/flipbook/flipbookcontent.php",
+		"/Users/william.roche/Sites/flipbook/notes.php",
+		"/Users/william.roche/Sites/flipbook/query_test.php",
+		"/Users/william.roche/Sites/ILN/ilnTest.php",
+		"/Users/william.roche/Sites/flipbook/iln_content",
+		"/Users/william.roche/Sites/IFWW QA/directory/Templates/snippets/top-banner-home.php",
+		"/Users/william.roche/Sites/turnjs4/samples/magazine/pages/3-regions.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/maille/css/flexslider_new.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/maille/css/flexslider_old.css",
+		"/Users/william.roche/Sites/Boodles/product-view.js",
+		"/Users/william.roche/Sites/Boodles/view.phtml",
+		"/Volumes/Everyone$/Clients/Maille/Digital/emails/Oct_Wk1_UK/HTML_EMAIL/index2.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"footer-bottom",
+			"body",
+			"DoAction",
+			"$edition",
+			"$magCode",
+			"$amazon",
+			"History",
+			"$isPatek"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "home.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
