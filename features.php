@@ -1,6 +1,8 @@
 <?php
 /*
+Theme: DIOW
 Template Name: Features Home
+COPYRIGHT: Illustrated London News
 */
 ?>
 <?php get_header(); ?>
